@@ -1,6 +1,6 @@
 {
-  "version": "2.1.6",
-  "notes": "Auto Update Test",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.1.6/ALPS_UpdatePackage_2.1.6.zip",
+  "version": "2.1.7",
+  "notes": "Orbis Update",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.1.7/ALPS_UpdatePackage_2.1.7.zip",
   "sha256": "CAD33A46736491F467757B02DF03D2F38DB3100705F8CA3DB23F9D8FE664B5B0"
 }
