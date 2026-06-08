@@ -1,6 +1,6 @@
 {
   "version": "2.1.8",
-  "notes": "Major bug fixes, Image generation added.",
+  "notes": "Added image generation support. Updated Playwright routing logic for improved stability and reliability. Resolved major bugs and improved overall application stability.",
   "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.1.8/ALPS_UpdatePackage_2.1.8.zip",
   "sha256": "6F71764BE7BB5FCD5A5D5A41424CD1F3CCDACA0F7F430653209E6010C6D7C33B"
 }
