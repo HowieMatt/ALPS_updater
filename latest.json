@@ -1,6 +1,6 @@
 {
-  "version": "2.1.7",
-  "notes": "Orbis Update",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.1.7/ALPS_UpdatePackage_2.1.7.zip",
-  "sha256": "CAD33A46736491F467757B02DF03D2F38DB3100705F8CA3DB23F9D8FE664B5B0"
+  "version": "2.1.8",
+  "notes": "Major bug fixes, Image generation added.",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.1.8/ALPS_UpdatePackage_2.1.8.zip",
+  "sha256": "510D92C00CA7CAC7024CEEA68C80612A9AB2CC2701BA3288C2C1133F758C9113"
 }
