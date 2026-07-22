@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "notes": "Added the new TP Stat module for statistical and sensitivity analysis. Updated the user interface to improve navigation, usability, and overall visual consistency. Resolved major bugs and improved overall application stability and reliability.",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.0/ALPS_UpdatePackage_2.2.0.zip",
-  "sha256": "6777B2F982E1F904EBB43AA2E83E05C77A1C3AE4B62ECE3A29F06B75365FF678"
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.1/ALPS_UpdatePackage_2.2.1.zip",
+  "sha256": "F3469A5D15306E856C258BFBCA0B39D467677C98C88501778A3AFD15FEF6810C"
 }
