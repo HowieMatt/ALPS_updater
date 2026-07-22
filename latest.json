@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "notes": "Added the new TP Stat module for statistical and sensitivity analysis. Updated the user interface to improve navigation, usability, and overall visual consistency. Resolved major bugs and improved overall application stability and reliability.",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.1/ALPS_UpdatePackage_2.2.1.zip",
-  "sha256": "F3469A5D15306E856C258BFBCA0B39D467677C98C88501778A3AFD15FEF6810C"
+  "version": "2.1.9",
+  "notes": "Added report Conversion support. Updated Playwright routing logic for improved stability and reliability. Resolved major bugs and improved overall application stability. Added new Names.",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.1.9/ALPS_UpdatePackage_2.1.9.zip",
+  "sha256": "280B1D50F60B89457BFAC60A6E81C4F0453B1336B8614F54E89FE8B157E64B7F"
 }
