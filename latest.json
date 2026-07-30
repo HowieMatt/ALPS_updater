@@ -1,6 +1,6 @@
 {
   "version": "2.2.2",
-  "notes": "Added the new TP Stat module for statistical and sensitivity analysis. Updated the user interface to improve navigation, usability, and overall visual consistency. Resolved major bugs and improved overall application stability and reliability.",
+  "notes": "Added file radar and pbc converter. Resolved major bugs and improved overall application stability and reliability.",
   "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.2/ALPS_UpdatePackage_2.2.2.zip",
   "sha256": "6BDB00B94485589FE3F2D4B503C02AAE6495D9EB2AC2E28BB48902CC17411628"
 }
