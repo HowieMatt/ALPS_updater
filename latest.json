@@ -1,6 +1,6 @@
 {
-  "version": "2.2.3",
-  "notes": "Added file radar and pbc converter. Resolved major bugs and improved overall application stability and reliability.",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.3/ALPS_UpdatePackage_2.2.3.zip",
-  "sha256": "E891BC01B3B7651C5BF976D1C9BB87D5406071C101C1A05054C7238BCD4B835E"
+  "version": "2.2.4",
+  "notes": "v2.2.4: appendix automation",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.4/ALPS_UpdatePackage_2.2.4.zip",
+  "sha256": "447D36858D9E91883292BF3755AD9B9C1D54DC01E0653B17D7BDD0125532667E"
 }
