@@ -1,6 +1,6 @@
 {
-  "version": "2.2.4",
-  "notes": "v2.2.4: appendix automation",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.4/ALPS_UpdatePackage_2.2.4.zip",
-  "sha256": "F99259902FCB32B9AA241BFD07528A470FED95EBA6CF5614B74214EEE82E84EE"
+  "version": "2.2.6",
+  "notes": "v2.2.6: file shelter, ai update, dart",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.6/ALPS_UpdatePackage_2.2.6.zip",
+  "sha256": "4066A1209EE4F64129BF63F884F56CC30605AE2A9174F236F7E1AD42C87B08CC"
 }
