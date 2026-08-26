@@ -1,6 +1,6 @@
 {
-  "version": "2.2.9",
-  "notes": "v2.2.9: file shelter, ai update, dart",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.9/ALPS_UpdatePackage_2.2.9.zip",
-  "sha256": "56A735138C021FD3ACDA62E45A03AD62BB8725628637777A0D4C3EF9D8B3DD00"
+  "version": "2.2.9.2",
+  "notes": "v2.2.9.2: file shelter, ai update, dart",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.9.2/ALPS_UpdatePackage_2.2.9.2.zip",
+  "sha256": "D722AE4EB1A499829B493C2D8EBA694BD4D38A00E100FA9BC027FB8149CC4788"
 }
