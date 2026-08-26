@@ -1,6 +1,6 @@
 {
-  "version": "2.2.9.4",
-  "notes": "v2.2.9.4: CUT fix, ai model update",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.9.4/ALPS_UpdatePackage_2.2.9.4.zip",
-  "sha256": "F66BF649DB4D760697FE344774D99DC91335B566E878AF7E8490EE444D0094A6"
+  "version": "2.2.9.5",
+  "notes": "v2.2.9.5: updates for BM and CUT",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.9.5/ALPS_UpdatePackage_2.2.9.5.zip",
+  "sha256": "53307B7882B628E9DFEC45742E3B1A19C3C5DBAD4CA6F86DB28EF05D59DCCA4F"
 }
