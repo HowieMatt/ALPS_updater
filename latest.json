@@ -1,6 +1,6 @@
 {
-  "version": "2.2.9.2",
-  "notes": "v2.2.9.2: file shelter, ai update, dart",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.9.2/ALPS_UpdatePackage_2.2.9.2.zip",
-  "sha256": "D722AE4EB1A499829B493C2D8EBA694BD4D38A00E100FA9BC027FB8149CC4788"
+  "version": "2.2.9.3",
+  "notes": "v2.2.9.3: CUT fix, ai model update",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.9.3/ALPS_UpdatePackage_2.2.9.3.zip",
+  "sha256": "DB0652D1DD9CD920536F3068908900973CA92DB8277CEAE5936B2366DC01B7E9"
 }
