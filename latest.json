@@ -1,6 +1,6 @@
 {
-  "version": "2.2.9.5",
-  "notes": "v2.2.9.5: updates for BM and CUT",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.2.9.5/ALPS_UpdatePackage_2.2.9.5.zip",
-  "sha256": "53307B7882B628E9DFEC45742E3B1A19C3C5DBAD4CA6F86DB28EF05D59DCCA4F"
+  "version": "2.3.0",
+  "notes": "v2.3.0: Opty Release",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.3.0/ALPS_UpdatePackage_2.3.0.zip",
+  "sha256": "4D2718B3BD5C969AA8CF5828D706E8AD1E15549E33B8CE32B106E3FDF8C4F5B1"
 }
