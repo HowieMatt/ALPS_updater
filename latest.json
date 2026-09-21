@@ -1,6 +1,6 @@
 {
-  "version": "2.3.2",
-  "notes": "v2.3.2: Opty Release",
-  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v.2.3.2/ALPS_UpdatePackage_2.3.2.zip",
-  "sha256": "89A1C26C03FBEE28728D6B69C38149A659FA4D72F9898EACAA4BCF2861D1F9D4"
+  "version": "2.3.4",
+  "notes": "v2.3.4: db access fix",
+  "package_url": "https://github.com/HowieMatt/ALPS_updater/releases/download/v2.3.4/ALPS_UpdatePackage_2.3.4.zip",
+  "sha256": "87A1D0E05269AA083D267E92D149817A7FD0248033E54AF8082F6ACD2B7FF399"
 }
